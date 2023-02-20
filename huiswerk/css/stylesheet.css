@@ -1,0 +1,95 @@
+body {
+    background-color: rgb(200, 200, 200); 
+    width: 100%;
+    }
+
+header {
+    background-color: red; 
+    height: 100px; 
+    width: 75%;
+    }
+
+h1 {
+    font-family: Arial, Helvetica, sans-serif;
+    }
+
+h2 {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif; 
+    background-color: white; 
+    max-width: max-content; 
+    padding-inline: 10pt;
+    }
+
+section {
+    background-color: orange; 
+    padding-top: 25px; 
+    padding-bottom: 25px; 
+    padding-left: 50px; 
+    width:50%;
+    }
+
+table {
+    border-style:groove; 
+    border-color:blue; 
+    border-width: 5pt;
+    }
+#cel-1{
+    background-color:rgb(250, 0, 0);
+    }
+#cel-2{
+    background-color:rgb(200, 50, 0);
+    }
+#cel-3{
+    background-color:rgb(200, 00, 50);
+    }
+#cel-4{
+    background-color: rgb(150, 100, 00);
+    }
+#cel-5{
+    background-color: rgb(150, 0, 100);
+    }
+#cel-6{
+    background-color: rgb(150, 50, 50);
+    }
+#cel-7{
+    background-color: rgb(100, 50, 100);
+    }
+#cel-8{background-color: rgb(100, 100, 50);
+    }
+#cel-9{
+    background-color: rgb(100, 0, 150);
+    }
+#cel-10{
+    background-color: rgb(100, 150, 0);
+    } 
+#cel-11{
+    background-color: rgb(50, 150, 0);
+    }
+#cel-12{background-color: rgb(50, 0, 150);
+    }
+#cel-13{
+    background-color: rgb(50, 100, 50);
+    }
+#cel-14{
+    background-color: rgb(50, 50, 100);
+    }
+#cel-15{
+    background-color: rgb(0, 250, 0);
+    }
+#cel-16{background-color: rgb(0, 0, 250);
+    }
+
+footer {
+    background-color: blue;  
+    height: 100px; 
+    width: 75%;
+    }
+
+.text-cell {
+    width:100px;
+    }
+
+.afbeelding {
+    width: 100px; 
+    height: 100px;
+    }
